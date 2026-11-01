@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Brand colors -->
+    <color name="printables_orange">#FA5D29</color>
+    <color name="printables_orange_dark">#D84515</color>
+    <color name="printables_orange_light">#FF8256</color>
+    <color name="printables_orange_container">#381D14</color>
+
+    <!-- Surfaces & Backgrounds -->
+    <color name="bg_dark">#121214</color>
+    <color name="surface_dark">#1A1A1E</color>
+    <color name="surface_card">#202026</color>
+    <color name="surface_variant">#2B2B36</color>
+    <color name="surface_input">#1F1F26</color>
+    <color name="stroke_subtle">#343442</color>
+
+    <!-- Typography colors -->
+    <color name="text_primary">#F8F9FA</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_tertiary">#6B7280</color>
+
+    <!-- Badges & Accents -->
+    <color name="star_gold">#FBBF24</color>
+    <color name="heart_red">#F43F5E</color>
+    <color name="download_cyan">#38BDF8</color>
+    <color name="gcode_green">#10B981</color>
+    <color name="stl_purple">#A855F7</color>
+
+    <!-- System -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
 </resources>

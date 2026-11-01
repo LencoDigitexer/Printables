@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Printables</string>
+    <string name="search_hint">Search 3D models, STLs, creators...</string>
+    <string name="filter_best_match">Best Match</string>
+    <string name="filter_popular">Popular</string>
+    <string name="filter_latest">Latest</string>
+    <string name="filter_rating">Top Rated</string>
+    <string name="filter_makes">Most Makes</string>
+    <string name="tab_explore">Explore</string>
+    <string name="tab_bookmarks">Saved</string>
+    <string name="no_models_found">No models found</string>
+    <string name="no_models_hint">Try searching for Benchy, Gridfinity, organizer, or tools</string>
+    <string name="files">Files &amp; Slices</string>
+    <string name="download_file">Download</string>
+    <string name="open_printables">View on Printables</string>
+    <string name="share_model">Share</string>
+    <string name="export_json">Export JSON</string>
+    <string name="copied_to_clipboard">Copied JSON to clipboard</string>
 </resources>
